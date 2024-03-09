@@ -10,7 +10,6 @@
 
 - [Python](#)
 - [Visual Studio Code](#)
-- [IA](#)
 
 
 ## Estatísticas do GitHub
