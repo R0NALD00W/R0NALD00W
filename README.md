@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-- 🌱 Atualmente estou aprendendo [Python]
+- 🌱 Em desenvolvimento
 
 ## Principais Tecnologias e Ferramentas
 
