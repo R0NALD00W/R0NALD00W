@@ -1,4 +1,4 @@
-# Bem-vindo! 👋
+# Bem-vindo! :D
 
 
 
@@ -20,4 +20,6 @@
 
 - Linkedin: [Brevemente](#)
 
-Vamos nos conectar e colaborar em projetos interessantes! 😄
+
+
+👋
