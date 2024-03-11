@@ -18,6 +18,6 @@
 
 ## Contato
 
-- LinkedIn: [Brevemente](#)
+- Linkedin: [Brevemente](#)
 
 Vamos nos conectar e colaborar em projetos interessantes! 😄
